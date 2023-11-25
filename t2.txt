@@ -1,4 +1,7 @@
 git 
 maven
 jenkins
+ddockers 
+git bash 
+kubernets
 
